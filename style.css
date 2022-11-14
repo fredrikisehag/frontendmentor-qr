@@ -8,7 +8,7 @@
 body {
   text-align: center;
   height: 100vh;
-  background-color: hsl(220, 15%, 55%);
+  background-color: hsl(212, 45%, 89%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,9 +30,12 @@ img {
 
 h1 {
   font-size: 30px;
+  font-weight: 700;
   margin-bottom: 10px;
 }
 
 p {
   font-size: 15px;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
 }
