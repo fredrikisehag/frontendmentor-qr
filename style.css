@@ -14,6 +14,7 @@ body {
   align-items: center;
 }
 
+/* Check how to stretch content in a column flexbox */
 .container {
   width: 400px;
   height: 600px;
